@@ -1,4 +1,4 @@
-% d) BASE + BALL = GAMES
+% e) BASE + BALL = GAMES
 
 solution(Solution):-
     digit(B), B>0,

@@ -1,4 +1,4 @@
-% IT + IS = ME
+% d) IT + IS = ME
 solution(L):-
     digit(I), I>0,
     digit(T),
